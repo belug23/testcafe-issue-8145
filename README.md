@@ -1,3 +1,8 @@
+# The issue can be bypassed by using:
+```
+docker run --rm testcafe:issue-8145 chromium --headless=new test.js
+```
+
 # testcafe-issue-8145
 
 
